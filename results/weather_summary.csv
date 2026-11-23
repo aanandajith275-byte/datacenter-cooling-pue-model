@@ -1,0 +1,4 @@
+climate,label,mean_db,max_db,max_wb,hours_wb_below_12,hours_dp_above_15
+tokyo,Tokyo (humid subtropical),13.059463470319635,34.0,29.11084030995835,4457,2855
+tucson,"Tucson, Arizona (hot desert)",21.705536529680366,42.0,23.30130253444304,4800,673
+stockholm,Stockholm (cold),6.486324200913241,27.1,19.280694052778244,7220,101

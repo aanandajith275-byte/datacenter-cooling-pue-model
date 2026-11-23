@@ -1,3 +1,0 @@
-case,recirculation,max_supply_c,rack_inlet_c,cop,pue,total_kw,it_kw,fans_kw,chiller_kw,pumps_kw,electrical_loss_kw,lighting_kw
-No containment (r = 0.25),0.25,23.0,27.0,5.98,1.326,1325.8,1000.0,57.5,176.8,17.7,63.8,10.0
-Aisle containment (r = 0.05),0.05,26.0,26.6,6.91,1.3,1299.7,1000.0,57.5,153.1,15.3,63.8,10.0

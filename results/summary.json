@@ -1,0 +1,16 @@
+{
+ "setpoint_paradox": {
+  "t_supply_min_energy": 24.5,
+  "t_supply_min_pue": 24.5,
+  "overhead_saving_18_to_best_mwh": 345.40487211834625,
+  "it_increase_18_to_best_mwh": 109.45372590730585,
+  "net_saving_18_to_best_mwh": 235.9511462110404,
+  "pue_18": 1.2315496084229045,
+  "pue_best": 1.1892379517746916
+ },
+ "monte_carlo": {
+  "pue_p5": 1.1672733927761405,
+  "pue_p50": 1.2029394127158923,
+  "pue_p95": 1.24059347281218
+ }
+}
